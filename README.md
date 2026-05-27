@@ -37,36 +37,31 @@ The dataset contains customer information such as:
 - Churn Status
 
 ⚙️ Technologies & Libraries
-🔹 Programming Language
+- 🔹 Programming Language
 Python
-🔹 Libraries Used
+- 🔹 Libraries Used
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- 
+
 🔄 Machine Learning Workflow
 
-1️⃣ Data Preprocessing
+- 1️⃣ Data Preprocessing
 Handled missing values
 Performed categorical encoding using OneHotEncoder
 Standardized numerical features using StandardScaler
 Built preprocessing pipelines using ColumnTransformer
-2️⃣ Model Building
-
+- 2️⃣ Model Building
 Implemented and compared multiple Machine Learning models:
-
 Logistic Regression
 Random Forest Classifier
-3️⃣ Model Evaluation
-
+- 3️⃣ Model Evaluation
 Used multiple evaluation metrics:
-
 Accuracy Score
 Classification Report
 Confusion Matrix
 ROC-AUC Score
-4️⃣ Hyperparameter Tuning
-
+- 4️⃣ Hyperparameter Tuning
 Applied GridSearchCV to improve model performance and select the best parameters.
